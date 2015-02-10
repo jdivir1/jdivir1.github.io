@@ -1,6 +1,6 @@
-head{
-background:Blue; 
-font-family: 'Dancing Script', cursive;
+h1{
+background:#65B9FF; 
+font-family: 'Dancing Script';
 font-size:24px;
 }
 
@@ -9,5 +9,6 @@ width: 90% ;
 max-width:960px;
 margin: 0 auto 0 auto;
 font-size:18px;
-font-family: 'Poiret One', cursive;
+font-family: 'Poiret One';
+background: url(subtlepattern.com/confectionary/) *repeat;
 }
